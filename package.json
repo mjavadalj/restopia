@@ -1,0 +1,26 @@
+{
+  "name": "restopia",
+  "version": "1.0.0",
+  "description": "make a structure for your rest-API to start fast",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjavadalj/restopia.git"
+  },
+  "keywords": [
+    "rest-api",
+    "express",
+    "body-parser",
+    "nodemon",
+    "nodejs"
+  ],
+  "author": "mohammad javad alijannezhad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjavadalj/restopia/issues"
+  },
+  "homepage": "https://github.com/mjavadalj/restopia#readme"
+}
