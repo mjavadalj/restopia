@@ -26,7 +26,7 @@ __files structure :__
 └── test
 ```
 
-__moduels that are installed with this package:__
+__modules that are installed with this package:__
 
 1. express
 1. body-parser
