@@ -1,5 +1,5 @@
 
-# Restup
+# Restopia
 ### Introduction
 
 this package helps you to start your rest-api faster by providing basic structure and some modules like express , body-parser and nodemon and more...
@@ -8,7 +8,7 @@ this package helps you to start your rest-api faster by providing basic structur
 ### Installation
 
 ```javascript
-npm i restup
+npm i Restopia
 ```
 ### Details
 __files structure :__
