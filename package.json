@@ -1,6 +1,6 @@
 {
   "name": "restopia",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "make a structure for your rest-API to start fast",
   "main": "index.js",
   "scripts": {
