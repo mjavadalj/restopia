@@ -14,6 +14,7 @@ npm i restopia
 __files structure :__
 ```bash
 ├── config
+│   ├── default.json
 ├── server
 │   ├── api
 │   │   ├── controllers
